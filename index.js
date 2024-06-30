@@ -1,3 +1,4 @@
+//cmd to install mongo package- npm install mongodb
 const MongoClient = require('mongodb').MongoClient;
 const url = 'mongodb://localhost:27017';
 const database = 'e-comm'
